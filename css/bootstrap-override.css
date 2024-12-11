@@ -1,0 +1,14 @@
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: darkred !important;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: url(../img/banana.svg);
+}
+
+.btn-primary {
+    background-color: aqua;
+}
